@@ -459,12 +459,12 @@ nav a:hover {
 
 /* Hero */
 #hero {
-  min-height: 100vh;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   position: relative;
   overflow: hidden;
-  padding-top: 72px;
+  padding-top: 80px;
+  padding-bottom: 60px;
 }
 .hero-bg {
   position: absolute;

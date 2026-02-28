@@ -155,7 +155,7 @@ const Index = () => {
       </header>
 
       {/* HERO */}
-      <section id="hero" style={{ paddingTop: 72 }}>
+      <section id="hero">
         <div className="hero-bg animated-gradient" />
         <div className="hero-bg grid-bg" />
         <div className="hero-bg radial-glow" />
