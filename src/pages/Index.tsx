@@ -170,7 +170,7 @@ const Index = () => {
 
         <div className="container">
           <div className="hero-content">
-            <div className="hero-badge badge badge-blue reveal" style={{ marginBottom: 32 }}>
+            <div className="hero-badge badge badge-blue reveal" style={{ marginBottom: 16 }}>
               <span className="hero-badge-dot" />
               Принимаем заявки — свяжемся за 2 часа
             </div>

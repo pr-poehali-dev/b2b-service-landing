@@ -503,7 +503,7 @@ nav a:hover {
   text-align: center;
   max-width: 800px;
   margin: 0 auto;
-  padding-top: 96px;
+  padding-top: 24px;
 }
 .hero-badge-dot {
   width: 8px;
@@ -513,17 +513,17 @@ nav a:hover {
   animation: pulse 2s infinite;
 }
 .hero-title {
-  font-size: clamp(36px, 6vw, 64px);
+  font-size: clamp(32px, 5vw, 56px);
   font-weight: 800;
   color: white;
   line-height: 1.1;
   letter-spacing: -2px;
-  margin-bottom: 24px;
+  margin-bottom: 16px;
 }
 .hero-sub {
-  font-size: 18px;
+  font-size: 16px;
   color: var(--text-muted);
-  margin-bottom: 40px;
+  margin-bottom: 24px;
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
@@ -532,8 +532,8 @@ nav a:hover {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 16px 32px;
-  margin-bottom: 40px;
+  gap: 10px 24px;
+  margin-bottom: 24px;
 }
 .hero-bullet {
   display: flex;
